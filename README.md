@@ -6,8 +6,8 @@ El challenge consiste en una serie de [test unitarios](https://es.wikipedia.org/
 
 Vas a tener que interpretar los tests para deducir el comportamiento del código y saber cómo programarlo.
 
-## Requerimientos
-* Deno
+## Requerimientos 
+* Deno (https://deno.land/)
 
 ## Cómo correr los tests
 * Dentro del proyecto correr el comando:
