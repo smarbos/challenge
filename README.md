@@ -4,6 +4,8 @@ El challenge consiste en una serie de [test unitarios](https://es.wikipedia.org/
 
 Vas a tener que interpretar los tests para deducir el comportamiento del código y saber cómo programarlo.
 
+El proyecto está hecho con Deno y el código está escrito en Typescript.
+
 ## Requerimientos 
 * Deno (https://deno.land/)
 
