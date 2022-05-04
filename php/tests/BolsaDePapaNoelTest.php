@@ -49,7 +49,7 @@ test("Obtengo el regalo más pesado de la bolsa", function() {
     $bolsa = new BolsaDePapaNoel();
     $regalo1 = new Regalo("Libro: Harry Potter y la piedra filosofal", 220);
     $regalo2 = new Regalo("Cubo de Rubik", 120);
-    $regalo3 = new Regalo("Casco de Ironman", 1);
+    $regalo3 = new Regalo("Casco de Ironman", 1496);
 
     $bolsa->agregarRegalo($regalo1);
     $bolsa->agregarRegalo($regalo2);
